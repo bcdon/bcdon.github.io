@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>卞懂(biàn)的博客</title>
+  
+  <subtitle>佛说：不要只盯着这个季节，错过了今冬，明年才懂得珍惜。</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-11-17T10:52:13.195Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>卞懂(biàn)</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好 世界！</title>
+    <link href="http://yoursite.com/2017/11/17/%E4%BD%A0%E5%A5%BD-%E4%B8%96%E7%95%8C%EF%BC%81/"/>
+    <id>http://yoursite.com/2017/11/17/你好-世界！/</id>
+    <published>2017-11-17T10:52:13.000Z</published>
+    <updated>2017-11-17T10:52:13.195Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2017/11/16/hello-world/"/>
+    <id>http://yoursite.com/2017/11/16/hello-world/</id>
+    <published>2017-11-16T11:05:14.608Z</published>
+    <updated>2017-11-17T11:30:00.999Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.<br><a id="more"></a></p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="http://yoursite.com/2016/01/11/Hello-World-0/"/>
+    <id>http://yoursite.com/2016/01/11/Hello-World-0/</id>
+    <published>2016-01-11T04:47:39.000Z</published>
+    <updated>2017-11-17T12:41:04.984Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://src.bcdon.com/image/img-1.png" alt="img-1"><br>The world is like a mirror; frown at it and it frowns at you; smile and it smiles too.<br>放下担子，过随遇而安的生活。</p><p>抛弃曾经的吐槽，类似“QQ说说”的博文。</p><p>一切重新开始。</p><p>Hello~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;http://src.bcdon.com/image/img-1.png&quot; alt=&quot;img-1&quot;&gt;&lt;br&gt;The world is like a mirror; frown at it and it frowns at you; smile and i
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎来到小懂君博客！</title>
+    <link href="http://yoursite.com/2015/06/28/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E5%B0%8F%E6%87%82%E5%90%9B%E5%8D%9A%E5%AE%A2%EF%BC%81/"/>
+    <id>http://yoursite.com/2015/06/28/欢迎来到小懂君博客！/</id>
+    <published>2015-06-28T10:56:36.000Z</published>
+    <updated>2017-11-17T11:30:20.106Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到小懂的博客,这是程序自动生成的文章.您可以删除或是编辑它:)</p><p>系统总共生成了一个”留言本”页面,和一个”欢迎使用Z-BlogPHP!”文章,祝您使用愉快!</p><a id="more"></a><hr><p>（2016年11月27日留: 最近记性总是不好，也许只有这篇博文能证明我的博客是2015年6月28日创建的了，原本2015年的数据我已经全部删了的，还好数据库有备份，想想还是把这篇标志性的文章恢复了）</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;欢迎来到小懂的博客,这是程序自动生成的文章.您可以删除或是编辑它:)&lt;/p&gt;
+&lt;p&gt;系统总共生成了一个”留言本”页面,和一个”欢迎使用Z-BlogPHP!”文章,祝您使用愉快!&lt;/p&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
