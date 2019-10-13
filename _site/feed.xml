@@ -3,10 +3,10 @@
   <channel>
     <title>卞懂の小破站</title>
     <description>&lt;h2&gt;卞懂的个人博客&lt;/h2&gt;&lt;p&gt;佛说：不要只盯着这个季节，错过了今冬，明年才懂得珍惜。&lt;br&gt;- &lt;a href='https://en.wikipedia.org/wiki/Dr._Bian'&gt;Dr. Bian&lt;/a&gt;&lt;/p&gt;</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 02:46:15 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 02:46:15 +0800</lastBuildDate>
+    <link>https://bcdon.github.io/</link>
+    <atom:link href="https://bcdon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Oct 2019 02:48:02 +0800</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2019 02:48:02 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -22,24 +22,8 @@
 &lt;p&gt;Hello~&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Oct 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/10/14/welcome-to-my-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/14/welcome-to-my-blog/</guid>
-      </item>
-    
-      <item>
-        <title>Welcome to my blog!</title>
-        <description>&lt;p&gt;The world is like a mirror; frown at it and it frowns at you; smile and it smiles too.
-放下担子，过随遇而安的生活。&lt;/p&gt;
-
-&lt;p&gt;抛弃曾经的吐槽，类似“QQ说说”的博文。&lt;/p&gt;
-
-&lt;p&gt;一切重新开始。&lt;/p&gt;
-
-&lt;p&gt;Hello~&lt;/p&gt;
-</description>
-        <pubDate>Mon, 14 Oct 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/10/14/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/10/14/welcome-to-jekyll/</guid>
+        <link>https://bcdon.github.io/2019/10/14/welcome-to-my-blog/</link>
+        <guid isPermaLink="true">https://bcdon.github.io/2019/10/14/welcome-to-my-blog/</guid>
       </item>
     
 
@@ -60,7 +44,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
 </description>
-            <link>http://localhost:4000/about.html</link>
+            <link>https://bcdon.github.io/about.html</link>
           </item>
         
       
