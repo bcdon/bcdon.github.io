@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:              卞懂の小破站
+title:              卞懂の个人博客
 logo:               # Logo image URL
 cover_image:        '/images/general/QooBee-Wave-Wallpaper.png'
-description:        "<h2>卞懂的个人博客</h2><p>佛说：不要只盯着这个季节，错过了今冬，明年才懂得珍惜。<br>- <a href='https://en.wikipedia.org/wiki/Dr._Bian'>Dr. Bian</a></p>"
+description:        "<h2>卞(biàn)懂的博客</h2><p>佛说：不要只盯着这个季节，错过了今冬，明年才懂得珍惜。<br>- <a href='https://en.wikipedia.org/wiki/Dr._Bian'>Dr. Bian</a></p>"
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://bcdon.github.io' # The base hostname & protocol for your site
 twitter:            https://twitter.com/aspirethemes
@@ -49,10 +49,10 @@ defaults:
 # Authors
 authors:
   ahmad:
-    name:     Ahmad Ajmi
+    name:     Biandong
     bio:      Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
-    gravatar: https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:    info@aspirethemes.com
-    website:  http://aspirethemes.com
-    github:   https://github.com/aspirethemes
-    twitter:  https://twitter.com/aspirethemes
+    gravatar: https://s.gravatar.com/avatar/15589c24c2b489f42059555a07f553af?s=80
+    email:    741702321@qq.com
+    website:  https://www.bcdon.com
+    github:   https://github.com/bcdon
+    twitter:  https://twitter.com/
