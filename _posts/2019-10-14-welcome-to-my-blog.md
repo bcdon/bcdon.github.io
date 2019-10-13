@@ -1,20 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: Welcome to my blog!
 featured: true
-author: john
-tags: [python, ruby, java]
+author: 卞懂
+tags: [blog]
 image: '/images/posts/qoobee.png'
 ---
-
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
-
-
-
 The world is like a mirror; frown at it and it frowns at you; smile and it smiles too.
 放下担子，过随遇而安的生活。
 
