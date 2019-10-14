@@ -5,7 +5,9 @@
       <h3 class='c-post-card__title'>{{ post.title }}</h3>
 
       <p class='c-post-card__excerpt'>
-        {{ post.content | strip_html | truncatewords:25 }}
+        <!-- {{ post.content | strip_html | truncatewords:25 }} -->
+        {{ post.content | strip_html | truncate :50 }}
+
       </p>
     </a>
 

@@ -57,11 +57,12 @@ authors:
     github:   https://github.com/bcdon
     twitter:  https://twitter.com/
 
+# 评论
 valine_comment:
   enable: true
-# app_id
+  # app_id
   leancloud_appid: 7WLbcATfsdUEteJsgIxasDxO-gzGzoHsz
-# app_key
+  # app_key
   leancloud_appkey: NsIt6kuXXNgAu3z7PhoABCPW
-# placeholde
+  # placeholde
   placeholder: “Just go go"
