@@ -257,7 +257,7 @@
 
         </article>
 
-        <section class='disqus'>
+        <!-- <section class='disqus'>
   <div id='disqus_thread'></div>
   <script>
     var disqus_config = function () {
@@ -275,7 +275,24 @@
     })();
   </script>
 <noscript>Please enable JavaScript to view the <a href='https://disqus.com/?ref_noscript' rel='nofollow'>comments powered by Disqus.</a></noscript>
+</section> -->
+        
+
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<section>
+  <div id="vcomments"></div>
+  <script>
+    new Valine({
+        el: '#vcomments',
+        app_id: '7WLbcATfsdUEteJsgIxasDxO-gzGzoHsz',   //这里变量的取值在网站配置文件里_config.yml
+        app_key: 'NsIt6kuXXNgAu3z7PhoABCPW', //这里变量的取值在网站配置文件里_config.yml
+        placeholder:'“Just go go"'    //这里变量的取值在网站配置文件里_config.yml
+    });</script>
 </section>
+
+
+
 
       </div>
 

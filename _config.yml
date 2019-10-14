@@ -56,3 +56,12 @@ authors:
     website:  https://www.bcdon.com
     github:   https://github.com/bcdon
     twitter:  https://twitter.com/
+
+valine_comment:
+  enable: true
+# app_id
+  leancloud_appid: 7WLbcATfsdUEteJsgIxasDxO-gzGzoHsz
+# app_key
+  leancloud_appkey: NsIt6kuXXNgAu3z7PhoABCPW
+# placeholde
+  placeholder: “Just go go"
