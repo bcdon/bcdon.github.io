@@ -5,8 +5,8 @@
     <description>&lt;h2&gt;卞(biàn)懂的博客&lt;/h2&gt;&lt;p&gt;佛说：不要只盯着这个季节，错过了今冬，明年才懂得珍惜。&lt;br&gt;- &lt;a href='https://en.wikipedia.org/wiki/Dr._Bian'&gt;Dr. Bian&lt;/a&gt;&lt;/p&gt;</description>
     <link>https://bcdon.github.io/</link>
     <atom:link href="https://bcdon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Oct 2019 23:31:11 +0800</pubDate>
-    <lastBuildDate>Mon, 14 Oct 2019 23:31:11 +0800</lastBuildDate>
+    <pubDate>Tue, 15 Oct 2019 01:40:22 +0800</pubDate>
+    <lastBuildDate>Tue, 15 Oct 2019 01:40:22 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -22,6 +22,40 @@
         <pubDate>Mon, 14 Oct 2019 00:00:00 +0800</pubDate>
         <link>https://bcdon.github.io/2019/10/14/welcome-to-my-blog/</link>
         <guid isPermaLink="true">https://bcdon.github.io/2019/10/14/welcome-to-my-blog/</guid>
+      </item>
+    
+      <item>
+        <title>欢迎来到小懂君博客！</title>
+        <description>&lt;p&gt;欢迎来到小懂的博客,这是程序自动生成的文章.您可以删除或是编辑它:)&lt;/p&gt;
+
+&lt;p&gt;系统总共生成了一个”留言本”页面,和一个”欢迎使用Z-BlogPHP!”文章,祝您使用愉快!&lt;/p&gt;
+
+&lt;p&gt;（来自2016年11月27日的续写: 最近记性总是不好，也许只有这篇博文能证明我的博客是2015年6月28日成立的了，原本2015年的文章我已经全部删了的，还好数据库有备份，想想还是把这篇标志性的文章恢复了）&lt;/p&gt;
+
+&lt;h3 id=&quot;来自2019年10月15日的续写&quot;&gt;来自2019年10月15日的续写:&lt;/h3&gt;
+
+&lt;p&gt;又一次把博客从WordPress搬到Github，&lt;/p&gt;
+
+&lt;p&gt;原因其一：目前五六七八个大中小型网站都放在一台服务器里，加上十月这上半月捅了某米大厂的马蜂窝，服务器隔三天差五天被搞瘫痪，So 吾把闲杂网站等都从主服务器里搬出来，然后对主服务器各种优化防护，好迎接大佬的造访。&lt;/p&gt;
+
+&lt;p&gt;原因其二：二十出头的小懂因生活所迫，不得不学习学习学习，上年纪的人不仅没了折腾花里胡哨的干劲，记忆力还越来越差嘞，甚至忘了之前WordPress博客的账号密码，（来自理科生的词穷，此处省略n句废话…）。最近在学习大数据，同时需要写很多很多笔记，MarkDown + Git + Github 的组合让人越来越爱，瞬间 Word、WordPress什么什么的是多么臃肿和花里胡哨and耗费时间。&lt;/p&gt;
+
+&lt;p&gt;原因其三：静态博客 VS wordpress，前者完胜，理由：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;免费 - GitHub&lt;/li&gt;
+  &lt;li&gt;快速 - 基于Ruby&lt;/li&gt;
+  &lt;li&gt;简洁 - MarkDown&lt;/li&gt;
+  &lt;li&gt;轻量 - 静态文件化&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;故：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;吾于2019年10月14日将个人博客迁移至github（Jekyll），从此不再记录花里胡哨、乱七八糟，为了生活，一切从简，重新开始。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 28 Jun 2015 00:00:00 +0800</pubDate>
+        <link>https://bcdon.github.io/2015/06/28/welcome-to-xiaodongs-blog/</link>
+        <guid isPermaLink="true">https://bcdon.github.io/2015/06/28/welcome-to-xiaodongs-blog/</guid>
       </item>
     
 

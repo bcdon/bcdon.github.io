@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to my blog!
 featured: true
-author: 卞懂
+author: Biandong
 tags: [blog]
 image: '/images/posts/qoobee.png'
 ---
