@@ -20,7 +20,8 @@
 
     @include mq($from: desktop) {
       margin-right: double($base-spacing-unit);
-      height: double(quadruple($base-spacing-unit));
+      // height: double(quadruple($base-spacing-unit));
+      height: auto;
       width: double(quadruple($base-spacing-unit));
     }
 
