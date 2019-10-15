@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 吾的新博客开通了!
+title: 吾之新博客开通了!
 featured: true
 author: Biandong
 tags: [blog,WordPress]
