@@ -7,7 +7,7 @@
   <meta name='viewport' content='width=device-width, initial-scale=1'>
 
   <title>卞懂の个人博客</title>
-  <meta name='description' content="<h2>卞(biàn)懂的自留地</h2><p>佛说：不要只盯着这个季节，错过了今冬，明年才懂得珍惜。<br>- <a href='https://www.bcdon.com'>Dr. Bian</a></p>">
+  <meta name='description' content="- <a href='https://www.bcdon.com'>Mr. biàn</a>">
   <link rel='canonical' href="https://bcdon.github.io/">
   <link rel='alternate' type='application/rss+xml' title='卞懂の个人博客' href="https://bcdon.github.io/feed.xml">
 
@@ -24,6 +24,7 @@
         pagination_next_page_number = '',
         pagination_available_pages_number = '';
   </script>
+  <script src="/js/jquery-3.1.1.min.js"></script>
 </head>
 
 <body class=' is-home '>
@@ -69,7 +70,22 @@
   <div class='o-grid__col o-grid__col--4-4-s o-grid__col--4-4-m o-grid__col--2-4-l'>
     <div class='c-hero' style='background-image: url(/images/general/QooBee-Wave-Wallpaper.png)'>
   <div class='c-hero__content'>
-    <div class='c-hero__description'><h2>卞(biàn)懂的自留地</h2><p>佛说：不要只盯着这个季节，错过了今冬，明年才懂得珍惜。<br>- <a href='https://www.bcdon.com'>Dr. Bian</a></p></div>
+  	<script src="js/typed.js"></script>
+    <script>
+    $(function(){
+
+        $("#typed").typed({
+            strings: ["我问佛：世间为何有那么多遗憾？", "佛曰：这是一个婆娑世界，婆娑即遗憾。","佛曰：没有遗憾，给你再多幸福也不会体会快乐。","我问佛：如果遇到了可以爱的人，却又怕不能把握该怎么办？","佛曰：留人间多少爱，迎浮世千重变。","佛曰：和有情人，做快乐事 别问是劫是缘。","佛曰：人生有八苦：生，老，病，死，爱别离，怨长久，求不得，放不下。","佛曰：命由己造，相由心生，世间万物皆是化相，心不动，万物皆不动，心不变，万物皆不变。","佛说：万法皆生，皆系缘份，偶然的相遇，暮然的回首，注定彼此的一生，只为眼光交汇的刹那。","佛说：缘起即灭，缘生已空。"],
+            typeSpeed: 90,
+            backDelay: 500,
+            loop: true,
+            contentType: 'text', 
+            loopCount: false
+        });
+    });
+
+    </script>
+    <div class='c-hero__description'><h2>卞(biàn)懂的自留地</h2><p><span id="typed" style="white-space:pre;"></span><br>- <a href='https://www.bcdon.com'>Mr. biàn</a></p></div>
   </div>
 </div>
   </div>
@@ -176,7 +192,7 @@
 </div>
   </div>
 
-  <script src="/js/jquery-3.1.1.min.js">            </script>
+  <!-- <script src="/js/jquery-3.1.1.min.js">            </script> -->
   <script src="/js/jquery.viewportchecker.min.js">  </script>
   <script src="/js/jquery.ghostHunter.min.js">      </script>
   <script src="/js/evil-icons.min.js">              </script>
