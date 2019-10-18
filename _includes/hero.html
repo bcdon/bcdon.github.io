@@ -3,18 +3,19 @@
   	<script src="{{ 'js/typed.js' | prepend: site.baseurl }}"></script>
     <script>
     $(function(){
-
+    	// 插件地址 http://www.jq22.com/jquery-info12282
         $("#typed").typed({
             strings: ["{{ site.typedtext }}"],
             typeSpeed: 90,
             backDelay: 500,
             loop: true,
             contentType: 'text', 
+            showCursor:false,
             loopCount: false
         });
     });
 
     </script>
-    <div class='c-hero__description'>{{ site.herotitle }}<p>『<span id="typed" style="white-space:pre;"></span>』<br>{{ site.description }}</p></div>
+    <div class='c-hero__description'>{{ site.herotitle }}<p>『 <span id="typed"></span> 』<br>{{ site.description }}</p></div>
   </div>
 </div>
