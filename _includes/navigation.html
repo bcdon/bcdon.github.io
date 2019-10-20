@@ -2,6 +2,12 @@
   <li class='c-nav__item'>
     <a href='{{ site.baseurl }}/' class='c-nav__link'>Home</a>
   </li>
+  <li class='c-nav__item'>
+    <a href='https://weibo.com/bcdon' class='c-nav__link'>Weibo</a>
+  </li>
+  <li class='c-nav__item'>
+    <a href='https://github.com/bcdon' class='c-nav__link'>GitHub</a>
+  </li>
   {% for page in site.pages %}
     {% unless page.name == '404.md' %}
       {% if page.title %}
@@ -11,12 +17,6 @@
       {% endif %}
     {% endunless %}
   {% endfor %}
-  <li class='c-nav__item'>
-    <a href='https://weibo.com/bcdon' class='c-nav__link'>weibo</a>
-  </li>
-  <li class='c-nav__item'>
-    <a href='https://github.com/bcdon' class='c-nav__link'>GitHub</a>
-  </li>
   <li class='c-nav__item c-nav__item--search'>
     <a class='js-search-toggle' href='#'>
       <span class='c-nav__icon' data-icon='ei-search' data-size='s'></span>
