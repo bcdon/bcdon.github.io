@@ -25,23 +25,12 @@
   <script src="{{ '/js/jquery.pjax.js' | prepend: site.baseurl }}">                  </script>
   <script> 
     $(document).pjax('a[target!=_blank]', '#pjax-container', {fragment:'#pjax-container', timeout:8000}); 
-      // =====================
-      // Post Card Images Fade
-      // =====================
-
-      $('.js-fadein').viewportChecker({
-        alert("fff");
-        classToAdd: 'is-inview', // Class to add to the elements when they are visible
-        offset: 100,
-        removeClassAfterAnimation: true
-      });
-
-    $(document).on('pjax:send', function() {
-      $('#loading').show()
-    })
-    $(document).on('pjax:complete', function() {
-      $('#loading').hide()
-    })
+    // $(document).on('pjax:send', function() {
+    //   $('#loading').show()
+    // })
+    // $(document).on('pjax:complete', function() {
+    //   $('#loading').hide()
+    // })
   </script>
 </body>
 
