@@ -48,10 +48,10 @@
       });
     })
     $(document).on('pjax:send', function() {
-      $('#loading').show();
+      $('#loading').slideDown('fast');
     })
     $(document).on('pjax:complete', function() {
-      $('#loading').delay(3000).hide(0);
+      $('#loading').delay(3000).slideUp('fast');
     })
   </script>
 </body>
