@@ -26,7 +26,12 @@
   <script> 
     $(document).pjax('a[target!=_blank]', '#pjax-container', {fragment:'#pjax-container', timeout:8000}); 
     $(document).on('ready pjax:end', function(event) {
-      $(event.target).initializeMyPlugin()
+      // $(event.target).initializeMyPlugin()
+      $('.js-fadein').viewportChecker({
+        classToAdd: 'is-inview', // Class to add to the elements when they are visible
+        offset: 100,
+        removeClassAfterAnimation: true
+      })
     })
     // $(document).on('pjax:send', function() {
     //   $('#loading').show()

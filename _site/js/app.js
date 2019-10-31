@@ -24,11 +24,11 @@ $(document).ready(function() {
   // Post Card Images Fade
   // =====================
 
-  $('.js-fadein').viewportChecker({
-    classToAdd: 'is-inview', // Class to add to the elements when they are visible
-    offset: 100,
-    removeClassAfterAnimation: true
-  });
+  // $('.js-fadein').viewportChecker({
+  //   classToAdd: 'is-inview', // Class to add to the elements when they are visible
+  //   offset: 100,
+  //   removeClassAfterAnimation: true
+  // });
 
   // =====================
   // Search
