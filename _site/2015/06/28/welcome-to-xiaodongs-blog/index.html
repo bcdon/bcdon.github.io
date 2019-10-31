@@ -397,19 +397,33 @@
     </div>
   </div>
 </div>
-
-  <script src="/js/jquery.viewportchecker.min.js">  </script>
-      <script src="/js/app.js">                         </script>
     </div>
   </div>
+  <script src="/js/jquery.viewportchecker.min.js">  </script>
   <script src="/js/jquery.ghostHunter.min.js">      </script>
   <script src="/js/evil-icons.min.js">              </script>
   <script src="/js/jquery.fitvids.js">              </script>
-  <!-- <script src="/js/app.js">                         </script> -->
+  <script src="/js/app.js">                         </script>
   <script src="/js/clickheart.js">                  </script>
   <script src="/js/jquery.pjax.js">                  </script>
   <script> 
     $(document).pjax('a[target!=_blank]', '#pjax-container', {fragment:'#pjax-container', timeout:8000}); 
+      // =====================
+      // Post Card Images Fade
+      // =====================
+
+      $('.js-fadein').viewportChecker({
+        classToAdd: 'is-inview', // Class to add to the elements when they are visible
+        offset: 100,
+        removeClassAfterAnimation: true
+      });
+
+    $(document).on('pjax:send', function() {
+      $('#loading').show()
+    })
+    $(document).on('pjax:complete', function() {
+      $('#loading').hide()
+    })
   </script>
 </body>
 
