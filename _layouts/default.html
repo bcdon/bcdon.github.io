@@ -12,8 +12,9 @@
     {% include hero-icons.html %}
 
     {% include search-form.html %}
-
-    {{ content }}
+    <div id="pjax-container">
+      {{ content }}
+    </div>
   </div>
   <script src="{{ '/js/jquery.viewportchecker.min.js' | prepend: site.baseurl }}">  </script>
   <script src="{{ '/js/jquery.ghostHunter.min.js' | prepend: site.baseurl }}">      </script>
@@ -21,6 +22,10 @@
   <script src="{{ '/js/jquery.fitvids.js' | prepend: site.baseurl }}">              </script>
   <script src="{{ '/js/app.js' | prepend: site.baseurl }}">                         </script>
   <script src="{{ '/js/clickheart.js' | prepend: site.baseurl }}">                  </script>
+  <script src="{{ '/js/jquery.pjax.js' | prepend: site.baseurl }}">                  </script>
+  <script> 
+    $(document).pjax('a[target!=_blank]', '#pjax-container', {fragment:'#pjax-container', timeout:8000}); 
+  </script>
 </body>
 
 </html>

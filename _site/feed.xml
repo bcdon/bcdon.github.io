@@ -3,10 +3,10 @@
   <channel>
     <title>卞懂の个人博客</title>
     <description>- &lt;a href='https://www.bcdon.com'&gt;Mr. biàn&lt;/a&gt;</description>
-    <link>https://bcdon.github.io/</link>
-    <atom:link href="https://bcdon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Oct 2019 19:31:59 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Oct 2019 19:31:59 +0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 Nov 2019 01:22:26 +0800</pubDate>
+    <lastBuildDate>Fri, 01 Nov 2019 01:22:26 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -87,8 +87,8 @@
 &lt;p&gt;我能够想到最幸福的事，就是陪着你慢慢变老。&lt;/p&gt;
 </description>
         <pubDate>Fri, 18 Oct 2019 00:00:00 +0800</pubDate>
-        <link>https://bcdon.github.io/2019/10/18/The-three-happiest-things/</link>
-        <guid isPermaLink="true">https://bcdon.github.io/2019/10/18/The-three-happiest-things/</guid>
+        <link>http://localhost:4000/2019/10/18/The-three-happiest-things/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/18/The-three-happiest-things/</guid>
       </item>
     
       <item>
@@ -115,8 +115,8 @@
 &lt;p&gt;吾于2019年10月14日将个人博客迁移至github（Jekyll），从此不再记录花里胡哨、乱七八糟，为了生活，一切从简，重新开始。&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Oct 2019 00:00:00 +0800</pubDate>
-        <link>https://bcdon.github.io/2019/10/15/my-new-blog-as-github/</link>
-        <guid isPermaLink="true">https://bcdon.github.io/2019/10/15/my-new-blog-as-github/</guid>
+        <link>http://localhost:4000/2019/10/15/my-new-blog-as-github/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/15/my-new-blog-as-github/</guid>
       </item>
     
       <item>
@@ -129,8 +129,8 @@
 &lt;p&gt;Hello~&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Oct 2019 00:00:00 +0800</pubDate>
-        <link>https://bcdon.github.io/2019/10/14/welcome-to-my-blog/</link>
-        <guid isPermaLink="true">https://bcdon.github.io/2019/10/14/welcome-to-my-blog/</guid>
+        <link>http://localhost:4000/2019/10/14/welcome-to-my-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/14/welcome-to-my-blog/</guid>
       </item>
     
       <item>
@@ -163,8 +163,8 @@
 &lt;p&gt;吾于2019年10月14日将个人博客迁移至github（Jekyll），从此不再记录花里胡哨、乱七八糟，为了生活，一切从简，重新开始。&lt;/p&gt;
 </description>
         <pubDate>Sun, 28 Jun 2015 00:00:00 +0800</pubDate>
-        <link>https://bcdon.github.io/2015/06/28/welcome-to-xiaodongs-blog/</link>
-        <guid isPermaLink="true">https://bcdon.github.io/2015/06/28/welcome-to-xiaodongs-blog/</guid>
+        <link>http://localhost:4000/2015/06/28/welcome-to-xiaodongs-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/06/28/welcome-to-xiaodongs-blog/</guid>
       </item>
     
 
@@ -183,13 +183,28 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/pages/qoobee.png&quot; alt=&quot;about&quot; /&gt;&lt;/p&gt;
 </description>
-            <link>https://bcdon.github.io/about.html</link>
+            <link>http://localhost:4000/about.html</link>
           </item>
         
       
     
       
     
+      
+    
+      
+        
+          <item>
+            <title>Links</title>
+            <description>1998年来到了这个传奇的地球，没有跌宕起伏的传奇人生，更不是史诗般的英雄人物。
+
+于2015年4月心血来潮，晃晃荡荡一路进了Web的领地，搭建表白驿站，从此与WordPress结缘，与代码惶惶相惜，蓦然回首，希望自己不在原地踏步。
+
+![about](/images/pages/qoobee.png)
+</description>
+            <link>http://localhost:4000/links.html</link>
+          </item>
+        
       
     
 
