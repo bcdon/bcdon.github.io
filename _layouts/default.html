@@ -16,14 +16,17 @@
       {{ content }}
     </div>
   </div>
-  <div id="load" style="display: none;">
-    <div>G</div>
-    <div>N</div>
-    <div>I</div>
-    <div>D</div>
-    <div>A</div>
-    <div>O</div>
-    <div>L</div>
+  <div id="loading" style="display: none;">
+    <div id="load">
+      <div>G</div>
+      <div>N</div>
+      <div>I</div>
+      <div>D</div>
+      <div>A</div>
+      <div>O</div>
+      <div>L</div>
+    </div>
+    
   </div>
   <script src="{{ '/js/jquery.viewportchecker.min.js' | prepend: site.baseurl }}">  </script>
   <script src="{{ '/js/jquery.ghostHunter.min.js' | prepend: site.baseurl }}">      </script>
@@ -45,10 +48,10 @@
       });
     })
     $(document).on('pjax:send', function() {
-      $('#load').show();
+      $('#loading').show();
     })
     $(document).on('pjax:complete', function() {
-      $('#load').delay(3000).hide(0);
+      $('#loading').delay(3000).hide(0);
     })
   </script>
 </body>
