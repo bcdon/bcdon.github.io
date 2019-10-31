@@ -388,6 +388,9 @@
   <script src="/js/jquery.pjax.js">                  </script>
   <script> 
     $(document).pjax('a[target!=_blank]', '#pjax-container', {fragment:'#pjax-container', timeout:8000}); 
+    $(document).on('ready pjax:end', function(event) {
+      $(event.target).initializeMyPlugin()
+    })
     // $(document).on('pjax:send', function() {
     //   $('#loading').show()
     // })
