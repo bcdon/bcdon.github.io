@@ -408,7 +408,8 @@
       });
     })
     $(document).on('pjax:send', function() {
-      $('#load').show()
+      $('#load').show();
+      alert("44")
     })
     $(document).on('pjax:complete', function() {
       $('#load').delay(2000).hide()
