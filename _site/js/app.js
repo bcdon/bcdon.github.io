@@ -1,5 +1,5 @@
 $(document).ready(function() {
-
+  alert("fff");
   'use strict';
 
   // =====================
@@ -25,7 +25,6 @@ $(document).ready(function() {
   // =====================
 
   $('.js-fadein').viewportChecker({
-    alert("fff");
     classToAdd: 'is-inview', // Class to add to the elements when they are visible
     offset: 100,
     removeClassAfterAnimation: true
