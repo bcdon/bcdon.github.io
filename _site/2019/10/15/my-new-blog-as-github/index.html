@@ -425,12 +425,9 @@
     })
     $(document).on('pjax:send', function() {
       $('#load').show();
-      alert("44")
     })
     $(document).on('pjax:complete', function() {
-      $('#load').delay(2000).hide();
-
-      alert("55")
+      $('#load').hide(3000);
     })
   </script>
 </body>
