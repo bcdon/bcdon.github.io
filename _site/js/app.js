@@ -1,6 +1,5 @@
-$(document).on('ready pjax:end', function(event) {
-// $(document).ready(function() {
-  
+$(document).ready(function() {
+
   'use strict';
 
   // =====================
