@@ -407,11 +407,11 @@
         removeClassAfterAnimation: true
       });
     })
-    $(document).on('pjax:click', function() {
+    $(document).on('pjax:send', function() {
       $('#load').show()
     })
     $(document).on('pjax:complete', function() {
-      $('#load').hide()
+      $('#load').delay(2000).hide()
     })
   </script>
 </body>
