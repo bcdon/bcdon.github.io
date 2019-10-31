@@ -395,15 +395,18 @@
 </div>
     </div>
   </div>
-  <div id="load">
-    <div>G</div>
-    <div>N</div>
-    <div>I</div>
-    <div>D</div>
-    <div>A</div>
-    <div>O</div>
-    <div>L</div>
+  <div class="loading" style="display: none;">
+    <div id="load">
+      <div>G</div>
+      <div>N</div>
+      <div>I</div>
+      <div>D</div>
+      <div>A</div>
+      <div>O</div>
+      <div>L</div>
+    </div>
   </div>
+  
   <script src="/js/jquery.viewportchecker.min.js">  </script>
   <script src="/js/jquery.ghostHunter.min.js">      </script>
   <script src="/js/evil-icons.min.js">              </script>
@@ -424,10 +427,10 @@
       });
     })
     $(document).on('pjax:send', function() {
-      $('#load').show()
+      $('#loading').show()
     })
     $(document).on('pjax:complete', function() {
-      $('#load').hide()
+      $('#loading').hide()
     })
   </script>
 </body>
