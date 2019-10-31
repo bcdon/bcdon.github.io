@@ -12,8 +12,9 @@
     {% include hero-icons.html %}
 
     {% include search-form.html %}
-    
-    {{ content }}
+    <div id="pjax-container">
+      {{ content }}
+    </div>
   </div>
   <script src="{{ '/js/jquery.viewportchecker.min.js' | prepend: site.baseurl }}">  </script>
   <script src="{{ '/js/jquery.ghostHunter.min.js' | prepend: site.baseurl }}">      </script>
