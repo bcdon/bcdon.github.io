@@ -12,9 +12,8 @@
     {% include hero-icons.html %}
 
     {% include search-form.html %}
-    <div id="pjax-container">
-      {{ content }}
-    </div>
+    
+    {{ content }}
   </div>
   <script src="{{ '/js/jquery.viewportchecker.min.js' | prepend: site.baseurl }}">  </script>
   <script src="{{ '/js/jquery.ghostHunter.min.js' | prepend: site.baseurl }}">      </script>
@@ -29,24 +28,10 @@
       // =====================
       // Post Card Images Fade
       // =====================
-
       $('.js-fadein').viewportChecker({
         classToAdd: 'is-inview', // Class to add to the elements when they are visible
         offset: 100,
         removeClassAfterAnimation: true
-      });
-
-      search_field.ghostHunter({
-        results: search_results,
-        onKeyUp: true,
-        rss: base_url + '/feed.xml',
-        info_template : "<h4 class='c-search-result__head'>Number of results found: {{amount}}</h4>",
-        result_template : search_result_template,
-        zeroResultsInfo : false,
-        includepages : true,
-        before: function() {
-          search_results.fadeIn();
-        }
       });
     })
     // $(document).on('pjax:send', function() {
